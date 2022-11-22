@@ -494,9 +494,7 @@ form textarea{
 
 }
 @media(min-width:993px) and (max-width:1200px){
-    body{
-        background-color: pink;
-    }
+   
     .wrap-comment{
         width: 700px;
        position: relative;
